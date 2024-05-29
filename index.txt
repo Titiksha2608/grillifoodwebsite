@@ -132,17 +132,17 @@ alt = badge
 Special Dish
 
 Alfredo Tortellini
+Indulge in our signature Alfredo Tortellini, a delectable dish that combines perfectly cooked tortellini pasta with a creamy and flavorful Alfredo sauce. Each bite offers a delightful blend of rich cheese-filled pasta and velvety sauce, creating a heavenly dining experience that will leave your taste buds craving for more. Treat yourself to a culinary delight that's sure to satisfy your cravings and elevate your dining experience.
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
+₹429.00
+₹229.00
 
-$40.00
-$20.00
 
 View All Menu
 
 
 
-#---------- MeNU ----------#
+#---------- MENU ----------#
 
 Ours Special 
 
@@ -213,7 +213,7 @@ Sam Jhonson
 Online Reservation
 
 Booking request
-+88-123-123456
+
 or fill out the order form
 
 placeholder = Your Name
@@ -423,10 +423,10 @@ alt = feature banner
 Chef Selection
 Alfredo Tortellini
 
-ndulge in our signature Alfredo Tortellini, a delectable dish that combines perfectly cooked tortellini pasta with a creamy and flavorful Alfredo sauce. Each bite offers a delightful blend of rich cheese-filled pasta and velvety sauce, creating a heavenly dining experience that will leave your taste buds craving for more. Treat yourself to a culinary delight that's sure to satisfy your cravings and elevate your dining experience.
+Indulge in our signature Alfredo Tortellini, a delectable dish that combines perfectly cooked tortellini pasta with a creamy and flavorful Alfredo sauce. Each bite offers a delightful blend of rich cheese-filled pasta and velvety sauce, creating a heavenly dining experience that will leave your taste buds craving for more. Treat yourself to a culinary delight that's sure to satisfy your cravings and elevate your dining experience.
 
-$40.00
-$20.00
+₹429.00
+₹229.00
 
 
 
@@ -456,5 +456,7 @@ Contact Us
 Asset No 2 Aerocity Hospitality District, 
 New Delhi 110037 India
 
+Booking Request
 
++91-7654302108
 reservation@restro.com
