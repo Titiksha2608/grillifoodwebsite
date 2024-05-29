@@ -1,0 +1,460 @@
+Grilli - Amazing & Delicious Food
+
+This is a Restaurant html template 
+
+
+
+#---------- TOP BAR ----------#
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Asset No 2 Aerocity Hospitality District, New Delhi 110037 India
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Daily : 8.00 am to 12.00 am
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++91 33542-61756
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+booking@restaurant.com
+
+
+
+#---------- HEADER ----------#
+
+alt = Grilli - Home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Visit Us
+
+Asset No 2 Aerocity Hospitality District, 
+New Delhi 110037 India
+
+Open: 9.30 am - 2.30pm
+
+booking@grilli.com
+
+Booking Request
++91-7654302108
+
+Find A Table
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Traditional & Hygiene
+
+For the love of
+delicious food
+
+Come with family & feel the joy of mouthwatering food
+
+View Our Menu
+
+delightful experience
+
+Flavours Inspired by
+the Seasons
+
+amazing & delicious
+
+Where every flavor
+tells a story
+
+aria-label = slide to previous
+<ion-icon name="chevron-back"></ion-icon>
+
+aria-label = slide to next
+<ion-icon name="chevron-forward"></ion-icon>
+
+alt = booking icon
+
+Book A Table
+
+
+
+#---------- SERVICE ----------#
+
+Flavors For Royalty
+
+We Offer Top Notch
+
+Indulge in an exquisite dining experience where every dish is meticulously crafted to tantalize your taste buds. From savory appetizers to delectable main courses and heavenly desserts, our culinary artisans take pride in delivering nothing but the finest. Elevate your senses with our impeccable service and savor the flavors of perfection at every bite.
+
+alt = Breakfast
+
+Breakfast
+View Menu
+
+Appetizers
+
+Drinks
+
+alt = shape
+
+
+
+#---------- ABOUT ----------#
+
+Our Story
+
+Every Culinary Creation Tells A Tale
+
+Welcome to our restaurant, where each culinary creation is a chapter in our story. We take pride in blending tradition with innovation, crafting dishes that not only delight the palate but also evoke memories and emotions. Every ingredient is chosen with care, and every recipe is a tribute to our rich heritage and passion for excellence. Join us and experience the tales told through our meticulously prepared cuisine.
+
+Book Through Call
+
++91 56789 22334
+
+Read More
+
+alt = about banner
+
+
+
+#---------- SPECIAL DISH ----------#
+
+alt = special dish
+
+alt = badge
+
+Special Dish
+
+Alfredo Tortellini
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
+
+$40.00
+$20.00
+
+View All Menu
+
+
+
+#---------- MeNU ----------#
+
+Ours Special 
+
+Delicious Menu
+
+1.
+alt = Greek Salad
+Greek Salad
+
+Seasonal
+₹150.00
+Tomatoes, green bell pepper, sliced cucumber, onion, olives, and feta cheese.
+
+2.
+alt = Garlic Shrimp Noodles
+Garlic Shrimp Noodles
+
+₹349.00
+Shrimp, Noodles, Sauce, Vegetables, Parsley leaves, Cilantro.
+
+3.
+alt = Chicken Biryani
+Chicken Biryani
+
+₹249.00
+chicken pieces marinated in yogurt and spices, cooked with fragrant basmati rice.
+
+4.
+alt = Indian Spinach Paneer
+Indian Spinach Paneer
+
+₹269.00
+Tender paneer cubes, creamy spinach gravy, tomato sauce, seasonings and spices.
+
+5.
+alt = Crab-Stuffed Bell Peppers with Rice
+Crab-Stuffed Bell Peppers with Rice
+
+New
+₹469.00
+Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
+
+6.
+alt = Opu Fish
+Opu Fish
+
+₹549.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+During evening daily from 7:00 pm to 12:00 am
+
+View All Menu
+
+
+
+#---------- TESTIMONIALS ----------#
+
+”
+I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
+
+alt = Sam Jhonson
+Sam Jhonson
+
+
+
+#---------- RESERVATION ----------#
+
+Online Reservation
+
+Booking request
++88-123-123456
+or fill out the order form
+
+placeholder = Your Name
+placeholder = Phone Number
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+1 Person
+2 Person
+3 Person
+4 Person
+5 Person
+6 Person
+7 Person
+
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+08 : 00 am
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+placeholder = Message
+
+Book A Table
+
+Contact Us
+
+Booking Request
+
+
++91-76543-02108
+
+
+Location
+Asset No 2 Aerocity Hospitality District, 
+New Delhi 110037 India
+
+Lunch Time
+
+Monday to Sunday
+11.00 am - 2.30pm
+
+Dinner Time
+
+Monday to Sunday
+05.00 pm - 10.00pm
+
+
+
+#---------- FEATURES ----------#
+
+Why Choose Us
+
+Our Strength
+
+alt = icon
+
+Hygienic Food
+Enjoy meals prepared with the highest standards of cleanliness and care.
+
+Fresh Environment
+Experience dining in a refreshing and clean atmosphere that enhances every meal.
+
+Skilled Chefs
+Our talented chefs bring passion and expertise to every dish, ensuring an unforgettable dining experience.
+
+Event & Party
+With years of experience, we specialize in creating unforgettable events tailored to your needs. 
+Let us bring your vision to life with innovative ideas and creative flair. Relax and leave the logistics to us - we handle everything seamlessly from start to finish.
+
+
+#---------- EVENT ----------#
+
+Recent Updates
+
+Upcoming Event
+
+alt = Flavour so good you’ll try to eat with your eyes.
+
+15/09/2022
+Food, Flavour
+Flavour so good you’ll try to eat with your eyes.
+
+08/09/2022
+Healthy Food
+
+03/09/2022
+Recipie
+
+View Our Blog
+
+
+
+#---------- FOOTER ----------#
+
+alt = grilli home
+
+Asset No 2 Aerocity Hospitality District, 
+New Delhi 110037 India
+
+booking@grillicn.com
+
+Booking Request : +91-76543-02108
+
+Open : 09:00 am - 01:00 pm
+
+Get News & Offers
+
+Subscribe us & Get 25% Off.
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+placeholder = Your email
+
+Subscribe
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Facebook
+Instagram
+Twitter
+Youtube
+Google Map
+
+&copy; 2022 Grilli. All Rights Reserved | 
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
+
+
+#---------- MENU PAGE ----------#
+
+
+Delicious & Amazing
+Our Menu
+Ours Special 
+
+Delicious Menu
+
+1.
+alt = Greek Salad
+Greek Salad
+
+Seasonal
+₹150.00
+Tomatoes, green bell pepper, sliced cucumber, onion, olives, and feta cheese.
+
+2.
+alt = Garlic Shrimp Noodles
+Garlic Shrimp Noodles
+
+₹349.00
+Shrimp, Noodles, Sauce, Vegetables, Parsley leaves, Cilantro.
+
+3.
+alt = Chicken Biryani
+Chicken Biryani
+
+₹249.00
+chicken pieces marinated in yogurt and spices, cooked with fragrant basmati rice.
+
+4.
+alt = Indian Spinach Paneer
+Indian Spinach Paneer
+
+₹269.00
+Tender paneer cubes, creamy spinach gravy, tomato sauce, seasonings and spices.
+
+5.
+alt = Crab-Stuffed Bell Peppers with Rice
+Crab-Stuffed Bell Peppers with Rice
+
+New
+₹469.00
+Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
+
+6.
+alt = Opu Fish
+Opu Fish
+
+₹549.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+During evening daily from 7:00 pm to 12:00 am
+
+View All Menu
+Special Offer
+Best Special Menu
+
+
+
+
+alt = feature banner
+
+Chef Selection
+Alfredo Tortellini
+
+ndulge in our signature Alfredo Tortellini, a delectable dish that combines perfectly cooked tortellini pasta with a creamy and flavorful Alfredo sauce. Each bite offers a delightful blend of rich cheese-filled pasta and velvety sauce, creating a heavenly dining experience that will leave your taste buds craving for more. Treat yourself to a culinary delight that's sure to satisfy your cravings and elevate your dining experience.
+
+$40.00
+$20.00
+
+
+
+#---------- MENU PAGE ----------#
+
+Our Story
+About Us
+
+Who We Are
+
+A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
+since 45 years.
+Enjoy our seasonal menu and experience the beauty of naturalness
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
+
+XYZ - Founder
+
+Lunch Time
+Monday to Sunday
+11.00 am - 2.30pm
+
+Dinner Time
+Monday to Sunday
+5.30 pm - 11.30 pm
+
+Contact Us
+Asset No 2 Aerocity Hospitality District, 
+New Delhi 110037 India
+
+
+reservation@restro.com
